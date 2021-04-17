@@ -1,2 +1,2 @@
 import os
-os.system('python function_19231261.py')
+os.system('nohup python function_19231261.py > log.txt')
